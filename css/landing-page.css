@@ -373,6 +373,12 @@ a:hover{
     .wordcloud {
         width: 80%;
     }
+
+    .headshot {
+        width: 60%;
+        padding:5%;
+        padding-left: 0;
+    }
 }
 
 @media screen and (max-width: 900px) {
